@@ -11,7 +11,7 @@
         android:id="@+id/textView3"
         android:layout_width="200dp"
         android:layout_height="80dp"
-        android:text="LUÂN"
+        android:text="demo"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         android:textSize="34sp"
         tools:layout_editor_absoluteX="306dp"
@@ -24,22 +24,5 @@
         android:src="@drawable/ic_launcher_foreground"
         tools:layout_editor_absoluteX="264dp"
         tools:layout_editor_absoluteY="5dp" />
-
-    <EditText
-        android:id="@+id/editTextTextEmailAddress"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:ems="10"
-        android:inputType="textEmailAddress"
-        tools:layout_editor_absoluteX="335dp"
-        tools:layout_editor_absoluteY="419dp" />
-
-    <TextView
-        android:id="@+id/textView4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="TextView"
-        tools:layout_editor_absoluteX="310dp"
-        tools:layout_editor_absoluteY="377dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
