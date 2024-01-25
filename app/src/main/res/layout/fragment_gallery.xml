@@ -25,4 +25,21 @@
         tools:layout_editor_absoluteX="264dp"
         tools:layout_editor_absoluteY="5dp" />
 
+    <EditText
+        android:id="@+id/editTextTextEmailAddress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        tools:layout_editor_absoluteX="335dp"
+        tools:layout_editor_absoluteY="419dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        tools:layout_editor_absoluteX="310dp"
+        tools:layout_editor_absoluteY="377dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
